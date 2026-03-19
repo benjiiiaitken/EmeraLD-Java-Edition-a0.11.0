@@ -1,4 +1,4 @@
-# EmeraLD-Java-Edition-a0.11.0
+# EmeraLD Java Edition Alpha
 YOU WILL NEED JAVA FOR THIS!
 EmeraLD is a work in progress!
 
