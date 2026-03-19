@@ -1,4 +1,5 @@
 # EmeraLD Java Edition Alpha
+If you want to get newer versions then download them and insert them into the .zip and delete the old version.
 YOU WILL NEED JAVA FOR THIS!
 EmeraLD is a work in progress!
 
