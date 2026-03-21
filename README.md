@@ -21,11 +21,8 @@ What you need to do:
 some images:
 
 
-<img width="1274" height="742" alt="Screenshot 2026-03-17 183822" src="https://github.com/user-attachments/assets/e4c71899-c5b7-4dcb-b2d6-ca25635a5af8" />
+<img width="1279" height="750" alt="Screenshot 2026-03-21 185907" src="https://github.com/user-attachments/assets/3555e750-ddb9-4332-b7b9-2fd437bdcc36" />
 
+<img width="1276" height="747" alt="Screenshot 2026-03-21 185830" src="https://github.com/user-attachments/assets/d7729f59-9e7a-4568-8b2b-b5bc25f0fa88" />
 
-
-
-
-
-<img width="1279" height="747" alt="Screenshot 2026-03-17 183910" src="https://github.com/user-attachments/assets/a647c6bb-f192-4527-b77a-af7a1669dce4" />
+<img width="1274" height="745" alt="Screenshot 2026-03-21 185805" src="https://github.com/user-attachments/assets/a0cf969d-3a39-4658-9589-2c9c387e1814" />
