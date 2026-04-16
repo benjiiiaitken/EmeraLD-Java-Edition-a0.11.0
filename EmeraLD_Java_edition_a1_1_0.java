@@ -167,7 +167,7 @@ addMouseMotionListener(new MouseMotionAdapter() {
             texture = new int[256];
             Arrays.fill(texture, 0x88888888);
         }
-        try { playerSkin = ImageIO.read(new File("C:\\Users\\aitke\\Downloads\\OG BEINZ.png")); } catch (Exception e) {}
+        try { playerSkin = ImageIO.read(new File("INSERT HERE")); } catch (Exception e) {}
     }
 
     private void generateWorld() {
